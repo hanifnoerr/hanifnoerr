@@ -12,7 +12,7 @@
   <a href="https://hanifnoerr.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/hanifnoerr/">LinkedIn</a> ·
   <a href="https://orcid.org/0009-0004-0234-3055">ORCID</a> ·
-  <a href="https://github.com/hanifnoerr">GitHub</a>
+  <a href="https://www.kaggle.com/hanifnoerrofiq">Kaggle</a>
 </p>
 
 ## About me
