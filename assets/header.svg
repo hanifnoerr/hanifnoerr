@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 230" role="img" aria-labelledby="title desc">
+  <title id="title">Hanif Noer Rofiq</title>
+  <desc id="desc">AI researcher and machine learning engineer working on generative AI, computer vision, and applied machine learning.</desc>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#161B22"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#58A6FF"/><stop offset="1" stop-color="#3FB950"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#30363D" stroke-width=".6"/></pattern>
+  </defs>
+  <rect x=".5" y=".5" width="919" height="229" rx="16" fill="url(#surface)" stroke="#30363D"/>
+  <rect x="650" y="16" width="250" height="196" fill="url(#grid)" opacity=".6"/>
+  <path d="m40 52 8 8-8 8m14 0h9" fill="none" stroke="#3FB950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="75" y="65" font-family="Consolas,monospace" font-size="16" fill="#8B949E">hanifnoerr / research + engineering</text>
+  <text x="38" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="50" font-weight="700" letter-spacing="-1.4" fill="#C9D1D9">Hanif Noer Rofiq</text>
+  <text x="40" y="173" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#58A6FF">Generative AI · Computer vision · Applied ML</text>
+  <rect x="40" y="193" width="92" height="3" rx="1.5" fill="url(#accent)"/>
+  <rect x="713" y="54" width="132" height="122" rx="14" fill="#0D1117" stroke="#58A6FF" stroke-opacity=".55"/>
+  <path d="M739 94v43m0-22h20m0-21v43m19 0V94l24 43V94" fill="none" stroke="#C9D1D9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M704 85h9m-9 60h9m132-60h9m-9 60h9" stroke="#58A6FF" stroke-width="2"/>
+  <circle cx="779" cy="160" r="3" fill="#3FB950"/>
+</svg>
