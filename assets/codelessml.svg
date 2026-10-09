@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 194" role="img" aria-labelledby="title desc">
+  <title id="title">CodelessML</title>
+  <desc id="desc">Explore data, compare models, and export tabular ML workflows. 9 classifiers · 9 regressors. Streamlit · scikit-learn · XGBoost</desc>
+  <rect x=".5" y=".5" width="419" height="193" rx="12" fill="#161B22" stroke="#30363D"/>
+  <path d="M1 30V12A11 11 0 0 1 12 1h28" fill="none" stroke="#58A6FF" stroke-width="2"/>
+  <path d="m380 35 12-12m-9 0h9v9" fill="none" stroke="#8B949E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="23" y="30" font-size="10" letter-spacing="1.1" fill="#8B949E">APPLIED ML / EDUCATIONAL SOFTWARE</text>
+    <text x="23" y="65" font-size="24" font-weight="600" letter-spacing="-.4" fill="#58A6FF">CodelessML</text>
+    <text x="23" y="95" font-size="16" fill="#C9D1D9">Explore data, compare models, and</text>
+    <text x="23" y="118" font-size="16" fill="#C9D1D9">export tabular ML workflows.</text>
+    <text x="23" y="151" font-size="17" font-weight="600" fill="#3FB950">9 classifiers · 9 regressors</text>
+    <text x="23" y="179" font-size="13" fill="#8B949E">Streamlit · scikit-learn · XGBoost</text>
+  </g>
+</svg>
