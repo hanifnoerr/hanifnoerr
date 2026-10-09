@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">AI Researcher | Machine Learning Engineer</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="center">Monash University · Melbourne, Australia</p>
 
@@ -19,7 +19,7 @@
 
 I am pursuing a **Master of Artificial Intelligence at Monash University**, researching generative AI and computer vision. I work on text-to-image diffusion models, efficient adaptation, and evaluation.
 
-Previously, I worked as a **Data Analyst at Indonesia’s Ministry of Finance**, developing machine learning solutions, analytics dashboards, web applications, and digital systems. I build practical AI systems with reproducible experiments and clear evaluation.
+Previously, I worked as a **Data Analyst at Indonesia’s Ministry of Finance**, developing machine learning solutions, analytics dashboards, web applications, and digital systems.
 
 **Research interests:** Generative AI · Computer vision & multimodal learning · LoRA & hypernetworks · AI benchmarking
 
