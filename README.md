@@ -48,6 +48,7 @@ Previously, I worked as a **Data Analyst at Indonesia’s Ministry of Finance**,
 | :--- | :--- | :--- |
 | 2026 | **1st place** | [ICANN DLMMDD Synthetic Image Attribution Challenge](https://github.com/hanifnoerr/DLMMDD_solution#official-results) |
 | 2026 | **3rd place** | [MuseumSCAT Specimen Collection Annotation Task](https://github.com/hanifnoerr/museumscat-3rd-place-solution) |
+| 2026 | **3rd place** | [Forams2026: detection and classification in micro-CT volumes](https://www.kaggle.com/competitions/forams-2026) |
 | 2025 | **2nd place** | [Advent of MAPS 2025 Programming Challenge](https://github.com/hanifnoerr/MAPS_coding_challenges) |
 | 2024 | **3rd place, team award** | [GovAI Hackathon: satellite imagery and carbon estimation](https://www.linkedin.com/posts/hanifnoerr_govai-hackathon-carbonpricing-activity-7270321100620734464-pRkU) |
 
