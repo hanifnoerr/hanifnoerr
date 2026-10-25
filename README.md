@@ -37,7 +37,7 @@ Previously, I worked as a **Data Analyst at Indonesia’s Ministry of Finance**,
 
 | Year | Result | Work |
 | :--- | :--- | :--- |
-| 2026 | **1st place** | MAC Poker Bot Hackathon |
+| 2026 | **1st place** | [MAC Poker Bot Hackathon](https://github.com/hanifnoerr/MAC-pokerbot-sawit-bot) |
 | 2026 | **1st place** | [ICANN DLMMDD Synthetic Image Attribution Challenge](https://github.com/hanifnoerr/DLMMDD_solution#official-results) |
 | 2026 | **3rd place** | [MuseumSCAT Specimen Collection Annotation Task](https://github.com/hanifnoerr/museumscat-3rd-place-solution) |
 | 2026 | **3rd place** | [Forams2026: detection and classification in micro-CT volumes](https://www.kaggle.com/competitions/forams-2026) |
